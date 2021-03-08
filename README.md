@@ -1,6 +1,6 @@
 # Train Speed Controller
 
-This is a sample application for the verification laboratory.
+This is a sample application for Never gonna give you up the verification laboratory.
 
 ## Introduction
 
