@@ -1,10 +1,6 @@
 # Train Speed Controller
 
-<<<<<<< HEAD
-This is a sample application for Never gonna give you up the verification laboratory.
-=======
-This is a sample application for Never gonna let you down the verification laboratory.
->>>>>>> branch-b
+This is a sample application for the verification laboratory.
 
 ## Introduction
 
